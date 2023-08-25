@@ -1,0 +1,14 @@
+class Animal < ApplicationRecord
+
+end
+
+
+
+
+
+
+
+
+
+
+
